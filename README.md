@@ -3,16 +3,16 @@
 1. Use REMS for units and set the responsive scale on the html element.
 2. Dont use @extend - it makes a mess in the css
 3. Use CSS Grid and Flexbox for layout
-4. Use a BEM CSS metholodgy - we use BEM to keep our html markup simple.
-5. We dont use bootstrap or tailwind unless specified in the brief.
-6. Dont use id's for css selectors. Only use ids for js
-7. When deploying to production, compress your css files into one minified file
-8. Avoid using inline css.
-9. Create and use mixins to remain DRY and Modular. Use mixins to "separate the concerns". ie: A mixin to handle all "titles".
-10. add helpful comments to your css for yourself and others 
-11. Keep code organised by using Sass Maps for brand elements like typography and color. Use camelCasing for your sass map declarations.
-12. Each Gutenberg block scss lives in its own self contained file. The scss file is named the same as the block name. This includes existing gutenberg blocks ie: paragraph, heading etc 
-13. Dont use !important if its not 100% nessary. When using BEM your css is modulized and therefore no need to use !important
+4. IF your a master at using Bootstrap, Tailwind or you just love good old BEM then its up to you if you are starting the project.
+5. If your are not starting the project then its a must not to mixup the css foundation that has already begun in the project.
+8. Dont use id's for css selectors. Only use ids for js
+9. When deploying to production, compress your css files into one minified file
+10. Avoid using inline css.
+11. Create and use mixins to remain DRY and Modular. Use mixins to "separate the concerns". ie: A mixin to handle all "titles".
+12. Add helpful comments to your css for yourself and others 
+13. Keep code organised by using Sass Maps for brand elements like typography and color. Use camelCasing for your sass map declarations.
+14. Each ACF or Gutenberg block scss lives in its own self contained file. The scss file is named the same as the block name. This includes existing gutenberg blocks ie: paragraph, heading etc 
+15. Dont use !important if its not 100% nessary. When using BEM your css is modulized and therefore no need to use !important
 
 
 ### js
