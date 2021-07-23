@@ -27,14 +27,14 @@
 This is the most critcal part of the developement. The problem can be that the design is often delivered to you in only one size, 
 The design needs to look the same at 1920 and 1440 resolutions.
 
-### Fluid typography mixin
+### 1. Fluid typography mixin
 One approach is to use: https://codepen.io/MadeByMike/pen/vNrvdZ 
 Use https://codepen.io/MadeByMike/pen/vNrvdZ on more the just typography to archive a scalable design.
 
-###
-Using REMS for scalable typography
+### 2. Using REMS for scalable typography
 https://www.youtube.com/watch?v=RKQ-Z-__3P4
 
+Obviously, Your a skilled developer and you have your own methods. the important thing is that the website remains in scale accross different desktop Monitor / laptop resolutions
 
 
 1. Our points breaks, with mobile first standard:
