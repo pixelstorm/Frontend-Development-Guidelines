@@ -24,11 +24,17 @@
  
 
 ## Responsiveness
-This is the most critcal part of the developement. The problem can be that the design is often delivered to you at 1440px, but its viewed at 1920.
-The design needs to look the same reguardless of what size its viewed at.
+This is the most critcal part of the developement. The problem can be that the design is often delivered to you in only one size, 
+The design needs to look the same at 1920 and 1440 resolutions.
+
+### Fluid typography mixin
 One approach is to use: https://codepen.io/MadeByMike/pen/vNrvdZ 
-We have used https://codepen.io/MadeByMike/pen/vNrvdZ for responsive paddings and type.
 Use https://codepen.io/MadeByMike/pen/vNrvdZ on more the just typography to archive a scalable design.
+
+###
+Using REMS for scalable typography
+https://www.youtube.com/watch?v=RKQ-Z-__3P4
+
 
 
 1. Our points breaks, with mobile first standard:
