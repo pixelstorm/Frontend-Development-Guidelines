@@ -24,9 +24,6 @@
 This is the most critcal part of the developement. The problem can be that the design is often delivered to you in only one size, 
 The design needs to look the same at 1920 and 1440 resolutions.
 
-### 1. Fluid typography mixin
-One approach is to use: https://codepen.io/MadeByMike/pen/vNrvdZ 
-Use https://codepen.io/MadeByMike/pen/vNrvdZ on more the just typography to archive a scalable design.
 
 ### 2. Using REMS for scalable typography
 https://www.youtube.com/watch?v=RKQ-Z-__3P4
